@@ -1,0 +1,27 @@
+
+body { 
+    background-color:#0097A7;
+}
+
+ul.li {
+list-style-type:disc;
+    
+}
+
+div { height: 50px;
+	width: 100px;
+	border: 2px solid black;
+	border-radius: 5px;
+    block:display;
+}
+
+#header {
+    background-color:#00BCD4;
+    
+}
+#main{
+    background-color:#B2EBF2;
+}
+#footer{
+    background-color:#727272;
+}
