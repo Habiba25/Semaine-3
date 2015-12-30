@@ -52,19 +52,18 @@ ul.h3{
 	font-family:Verdana, sans-serif;  
     color:#0097A7;
     }
+    
 ul.li{
-      margin left:5px;
-      margin-top:10px;
-      font-family:Verdana,sans-serif;
-      color:black;
+     margin left:5px;
+     margin-top:10px;
+     font-family:Verdana,sans-serif;
+     color:black;
   }
   
 li { 
     list-style-type:disc;
     
     }
-
-    
 
 #footer{
     background-color:#727272;
@@ -73,6 +72,7 @@ li {
 	width: 98%;
 	clear: both;
 }
+
 	#footer.p{
 	font-family: Verdana, sans-serif;
 	font-size: 10px;
