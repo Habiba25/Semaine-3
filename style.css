@@ -38,12 +38,13 @@ div {
     
 
 #main{
-    z-index:2;
+
     position:relative;
     background-color:#B2EBF2;
     width:98%;
-    height:400px;
-    margin-top:-20px;
+    height:300px;
+    padding-top:-100px;
+    margin-top:-10px;
     margin-bottom:10px;
     }
     
@@ -67,14 +68,14 @@ li {
     }
 
 #footer{
-    z-index:1;
+    
     background-color:#727272;
     position: relative;
 	height: 50px;
 	width: 98%;
 }
 
-	#footer.p {
+	#p {
 	
 	float:center;
 	font-family: Verdana, sans-serif;
