@@ -74,12 +74,14 @@ li {
 	width: 98%;
 }
 
-	#footer.p{
-	clear: both;
+	#footer.p {
+	
 	float:center;
 	font-family: Verdana, sans-serif;
 	font-size: 10px;
-	text-align: center;
+    margin-right: 5px;
+	margin-bottom:10px;
+	padding-top: 5px;
 	color: #ffffff;
     
 }
