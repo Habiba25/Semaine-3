@@ -12,14 +12,16 @@ div {
     z-index: 1;
 	position: fixed;
 	width: 98%;
-	margin-top: -20px;
-	height: 60px;
+	margin-top: -10px;
+	height: 80px;
 	margin-bottom: 10px;
 }
     #nom { 	
       float:left;
 	  margin-left: 5px;
+	  margin-bottom:0px;
 	  padding-top: 5px;
+	  font-size:16px;
 	  font-family: Verdana, sans-serif;
 	  color: #ffffff;
          }
@@ -27,7 +29,9 @@ div {
     #poste {
       float:right;
 	  margin-right: 5px;
+	  margin-bottom:10px;
 	  padding-top: 5px;
+	  font-size:16px;
       font-family: Verdana, sans-serif;
 	  color: #ffffff; 
         }
@@ -54,6 +58,7 @@ ul.li{
       font-family:Verdana,sans-serif;
       color:black;
   }
+  
 li { 
     list-style-type:disc;
     
@@ -66,7 +71,9 @@ li {
     position: relative;
 	height: 50px;
 	width: 98%;
-	clear: both;{
+	clear: both;
+}
+	#footer.p{
 	font-family: Verdana, sans-serif;
 	font-size: 10px;
 	text-align: center;
