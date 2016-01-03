@@ -9,11 +9,11 @@ div {
 
 
 #header {
-    background-color:#00BCD4;
-    z-index: 3;
+    z-index: 1;
 	position: fixed;
 	width: 98%;
 	margin-top: -10px;
+	background-color:#00BCD4;
 	height: 80px;
 	margin-bottom: 10px;
      }
@@ -40,13 +40,13 @@ div {
     
 
 .main{
-
+    
     position:relative;
+    float:none;
     background-color:#B2EBF2;
     width:98%;
     height:300px;
-    padding-top:-100px;
-    margin-top:10px;
+    margin-top:50px;
     margin-bottom:10px;
     }
     
@@ -61,7 +61,7 @@ ul.li{
      margin left:5px;
      margin-top:10px;
      font-family:Verdana,sans-serif;
-     color:black;
+     color:#000033;
   }
   
 li { 
@@ -73,10 +73,12 @@ li {
     
     background-color:#727272;
     position: relative;
+    clear:both;
 	height: 50px;
 	width: 98%;
 	font-family: Verdana, sans-serif;
 	font-size: 15px;
+	text-align:center;
 	color:#ffffff;
 }
 
@@ -90,7 +92,7 @@ li {
 
     
     
-    
+    *
     
     
     
