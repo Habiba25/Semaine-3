@@ -46,7 +46,7 @@ div {
     width:98%;
     height:300px;
     margin-top:90px;
-    padding-bottom:80px;
+    margin-bottom:10px;
     }
     
 ul.h3{
@@ -75,6 +75,7 @@ li {
     clear:both;
 	height: 50px;
 	width: 98%;
+	margin-top:10px;
 	font-family: Verdana, sans-serif;
 	font-size: 15px;
 	text-align:center;
