@@ -46,21 +46,21 @@ div {
     width:98%;
     height:300px;
     margin-top:90px;
-    margin-bottom:-80px;
+    padding-bottom:50px;
     }
     
 ul.h3{
     margin-left: 5px;
 	margin-top:-10px;
 	font-family:Verdana, sans-serif;  
-    color:#000033;
+    color:#003366;
     }
     
 ul.li{
      margin left:5px;
      margin-top:-5px;
      font-family:Verdana,sans-serif;
-     color:#000033;
+     color:#003366;
   }
   
 li { 
