@@ -9,7 +9,7 @@ div {
 
 
 #header {
-    z-index:4;
+    z-index:1;
 	position: fixed;
 	width: 98%;
     height: 80px;
@@ -42,11 +42,10 @@ div {
 .main{
     
     position:relative;
-    z-index:1
     background-color:#B2EBF2;
     width:98%;
     height:300px;
-    margin-top:50px;
+    margin-top:-50px;
     margin-bottom:10px;
     }
     
