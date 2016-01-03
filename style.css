@@ -12,9 +12,9 @@ div {
     z-index: 1;
 	position: fixed;
 	width: 98%;
+    height: 80px;
 	margin-top: -10px;
 	background-color:#00BCD4;
-	height: 80px;
 	margin-bottom: 10px;
      }
      
@@ -42,7 +42,7 @@ div {
 .main{
     
     position:relative;
-    float:none;
+    padding-top:-20px;
     background-color:#B2EBF2;
     width:98%;
     height:300px;
@@ -54,7 +54,7 @@ ul.h3{
     margin-left: 5px;
 	margin-top: 15px;
 	font-family:Verdana, sans-serif;  
-    color:#0097A7;
+    color:#000033;
     }
     
 ul.li{
@@ -92,7 +92,7 @@ li {
 
     
     
-    *
+    
     
     
     
